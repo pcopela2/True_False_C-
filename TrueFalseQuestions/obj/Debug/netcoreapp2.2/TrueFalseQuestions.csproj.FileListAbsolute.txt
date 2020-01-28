@@ -1,0 +1,11 @@
+/Users/parkercopeland/Documents/C# Projects/TrueFalseQuestions/TrueFalseQuestions/bin/Debug/netcoreapp2.2/TrueFalseQuestions.deps.json
+/Users/parkercopeland/Documents/C# Projects/TrueFalseQuestions/TrueFalseQuestions/bin/Debug/netcoreapp2.2/TrueFalseQuestions.runtimeconfig.json
+/Users/parkercopeland/Documents/C# Projects/TrueFalseQuestions/TrueFalseQuestions/bin/Debug/netcoreapp2.2/TrueFalseQuestions.runtimeconfig.dev.json
+/Users/parkercopeland/Documents/C# Projects/TrueFalseQuestions/TrueFalseQuestions/bin/Debug/netcoreapp2.2/TrueFalseQuestions.dll
+/Users/parkercopeland/Documents/C# Projects/TrueFalseQuestions/TrueFalseQuestions/bin/Debug/netcoreapp2.2/TrueFalseQuestions.pdb
+/Users/parkercopeland/Documents/C# Projects/TrueFalseQuestions/TrueFalseQuestions/obj/Debug/netcoreapp2.2/TrueFalseQuestions.csprojAssemblyReference.cache
+/Users/parkercopeland/Documents/C# Projects/TrueFalseQuestions/TrueFalseQuestions/obj/Debug/netcoreapp2.2/TrueFalseQuestions.csproj.CoreCompileInputs.cache
+/Users/parkercopeland/Documents/C# Projects/TrueFalseQuestions/TrueFalseQuestions/obj/Debug/netcoreapp2.2/TrueFalseQuestions.AssemblyInfoInputs.cache
+/Users/parkercopeland/Documents/C# Projects/TrueFalseQuestions/TrueFalseQuestions/obj/Debug/netcoreapp2.2/TrueFalseQuestions.AssemblyInfo.cs
+/Users/parkercopeland/Documents/C# Projects/TrueFalseQuestions/TrueFalseQuestions/obj/Debug/netcoreapp2.2/TrueFalseQuestions.dll
+/Users/parkercopeland/Documents/C# Projects/TrueFalseQuestions/TrueFalseQuestions/obj/Debug/netcoreapp2.2/TrueFalseQuestions.pdb
